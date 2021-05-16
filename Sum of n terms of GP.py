@@ -1,0 +1,5 @@
+a=float(input("Enter 1 no"))
+r=float(input("Enter common ratio"))
+n=float(input("Enter no of terms"))
+c=(a*((r**n)-1))/(r-1)
+print(c)
