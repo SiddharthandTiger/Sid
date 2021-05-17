@@ -1,0 +1,2 @@
+import  pywhatkit as a
+a.text_to_handwriting("My Name is Siddharth Sharma"," D:\1.png")
